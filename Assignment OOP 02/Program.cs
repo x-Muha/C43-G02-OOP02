@@ -64,6 +64,11 @@
             //Console.WriteLine("Data of Olderst Perseon:");
             //Console.WriteLine(person[maxAgeIndex]);
             #endregion
+
+            #region Q4
+            //Rectangle rec = new(3, 4);
+            //rec.DisplayInfo();
+            #endregion
         }
     }
 }
