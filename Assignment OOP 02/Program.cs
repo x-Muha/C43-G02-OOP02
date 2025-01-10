@@ -66,7 +66,9 @@
             #endregion
 
             #region Q4
-            //Rectangle rec = new(3, 4);
+            //Rectangle rec = new Rectangle();
+            //rec.Width= 5;
+            //rec.Height= 3;
             //rec.DisplayInfo();
             #endregion
         }
